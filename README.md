@@ -1,2 +1,6 @@
-# My-first-projects
-A curated cookbook of ready-to-run notebooks with step-by-step guides and practical code examples to speed up development with Llama. 
+# DocumentLens – Structured Parser
+
+This project extracts text, tables, and charts from PDF documents using Llama models.
+
+## Usage
+python src/structured_extraction.py document.pdf text,tables
